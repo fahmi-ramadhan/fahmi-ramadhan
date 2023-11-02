@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Fahmi 👋
 
 <!--
 **fahmi-ramadhan/fahmi-ramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-![fahmi-ramadhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi-ramadhan&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi-ramadhan&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </p>
